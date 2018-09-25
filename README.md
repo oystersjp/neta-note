@@ -1,0 +1,2 @@
+# neta-note
+Oystersのやりたいことネタ帳
