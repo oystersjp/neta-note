@@ -15,6 +15,7 @@
 
 ### 活動に興味がある
 適当に人が増えてもごちゃごちゃするだけなので、有意義な交流が出来るように個人開発にモチベーションがある人だけをご招待しています
-興味がある人は、下記の誰か、または、[@pinkumohikan](https://twitter.com/pinkumohikan) へご相談下さい
+
+興味がある人は下記の誰か、または [@pinkumohikan](https://twitter.com/pinkumohikan) へご連絡下さい
 
 https://github.com/orgs/oystersjp/people 
