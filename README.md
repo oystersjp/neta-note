@@ -1,13 +1,13 @@
 # Oystersのやりたいことネタ帳
 
 
-## :green_apple:  中の人向け
+## 中の人向け
 ### やりたいことがあるぞ :bulb:
 * 自由に [Issue](https://github.com/oystersjp/neta-note/issues) を切ってくだしあ :writing_hand: 
 * 既にある [Issue](https://github.com/oystersjp/neta-note/issues) で面白そうだなと思ったら ":+1:" すると機運が高まるぞい :point_up:
 
 
-## :green_apple:  外の人向け
+## 外の人向け
 ### は？ Oystersってなんやねん :exploding_head:
 * 若手エンジニアの集いだよ
 * ワイワイするためのSlackがあるよ
