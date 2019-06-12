@@ -80,7 +80,9 @@
 休日につき、ビルのエントランスは閉まっています。
 
 到着したら、twitter の以下にリプライ  
-https://twitter.com/nyamucoro
+https://twitter.com/akki_megane  
+https://twitter.com/ShuzoN__  
+https://twitter.com/cureseven  
 
 あるいは twitter のハッシュタグ  
  #endless_lt
